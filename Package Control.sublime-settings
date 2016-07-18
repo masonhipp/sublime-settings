@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Package Control",
-		"SFTP"
+		"SFTP",
+		"Vue Syntax Highlight"
 	]
 }
